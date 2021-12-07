@@ -14,13 +14,14 @@ Hi! My name is **Maycol Elcorrobarrutia Medina**.
 
 ## Env Variables
 
-Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
+Make Sure to Create a .env and add appropriate variables in order to use the app.
 
-**Essential Variables**
-PORT
-CLIENT_ID_SPOTIFY
+## **Essential Variables**
+
+-
+-
 
 ## Author
 
 **Instagram** Click [Here](https://www.instagram.com/maycol0428)
-**Facebook** Click [Here](https://www.instagram.com/maycolchristian.em)
+**Facebook** Click [Here](https://www.facebook.com/maycolchristian.em)
